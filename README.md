@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **msap48@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1IXXp0hSZpAm2cZD9GwztzJgY17IRnpMs/edit?usp=sharing&ouid=111747738075714334295&rtpof=true&sd=true](https://docs.google.com/document/d/1IXXp0hSZpAm2cZD9GwztzJgY17IRnpMs/edit?usp=sharing&ouid=111747738075714334295&rtpof=true&sd=true)
+- 📄 Know about my experiences https://drive.google.com/file/d/1B7nw8LIg1v32tyXS9tnnqtX-CBJc2UJd/view?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
