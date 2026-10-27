@@ -1,13 +1,11 @@
-<img src="https://i.ibb.co.com/xtJHZwkf/Professional-Web-Developer-Portfolio-Banner.png" alt="Professional Web Developer Portfolio Banner" border="0">
+<h1 align="center">Hi 👋, I'm Md. Shah Alam</h1>
 <h3 align="center">A passionate Web Designer & Developer | WordPress Expert</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=msap48&label=Profile%20views&color=0e75b6&style=flat" alt="msap48" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=msap48" alt="msap48" /></a> </p>
 
-<p align="left">
-<a href="https://twitter.com/msalam48" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="msalam48" height="30" width="40" /></a>
-</p>
+<p align="left"> <a href="https://twitter.com/https://x.com/msalam48" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/msalam48?logo=twitter&style=for-the-badge" alt="https://x.com/msalam48" /></a> </p>
 
 - 🔭 I’m currently working on **Freelancer**
 
@@ -19,10 +17,13 @@
 
 - 📫 How to reach me **msap48@gmail.com**
 
-- 📄 Know about my experiences https://drive.google.com/file/d/1B7nw8LIg1v32tyXS9tnnqtX-CBJc2UJd/view?usp=sharing
+- 📄 Know about my experiences [https://docs.google.com/document/d/1IXXp0hSZpAm2cZD9GwztzJgY17IRnpMs/edit?usp=sharing&ouid=111747738075714334295&rtpof=true&sd=true](https://docs.google.com/document/d/1IXXp0hSZpAm2cZD9GwztzJgY17IRnpMs/edit?usp=sharing&ouid=111747738075714334295&rtpof=true&sd=true)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/https://x.com/msalam48" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/msalam48" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/ md-shah-alam-3517129" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ md-shah-alam-3517129" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/shah.a.palash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/shah.a.palash" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
