@@ -1,4 +1,4 @@
-[<img src="https://i.ibb.co.com/NnbPRkLJ/Md-Shah-Alam-Web-Design-Banner.png" alt="Md Shah Alam Web Design Banner" border="0">](https://ibb.co.com/3yP63WFF)
+https://ibb.co.com/3yP63WFF
 <h3 align="center">A passionate Web Designer & Developer | WordPress Expert</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=msap48&label=Profile%20views&color=0e75b6&style=flat" alt="msap48" /> </p>
