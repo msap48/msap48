@@ -72,13 +72,16 @@ Here are some website design and development projects:
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=msap48&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics">
+  <img src="./profile/stats.svg"
+       alt="GitHub Statistics"
+       height="180">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=msap48&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages">
+   <img src="./profile/top-langs.svg"
+       alt="Most Used Languages"
+       height="180">
 </p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=msap48&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak">
 </p>
