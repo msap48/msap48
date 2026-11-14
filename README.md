@@ -60,7 +60,7 @@ Here are some website design and development projects:
 
 | Project | Category |
 |---|---|
-| **Donat - Charity & Fundraising** | | Nonprofit Organization Website |
+| **Donat - Charity & Fundraising** | Nonprofit Organization Website |
 | **Personal Portfolio - Portfolio Website** | Professional Portfolio Website |
 | **Educeet – University Education** | Educational Website |
 | **Edudash – Education Management Admin Dashboard** | Admin Dashboard |
