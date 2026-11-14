@@ -2,7 +2,7 @@
 
 <!-- Upload your GitHub banner to assets/github-banner.png -->
 <p align="center">
-  <img src="./assets/github-banner.png" alt="Md. Shah Alam - Building Modern Web Experiences" width="100%" height="60%">
+  <img src="./assets/github-banner.png" alt="Md. Shah Alam - Building Modern Web Experiences" width="100%" height="50%">
 </p>
 
 <h2 align="center">Full Stack Web Developer | WordPress Specialist</h2>
