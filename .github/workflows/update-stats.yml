@@ -3,7 +3,7 @@ name: Update GitHub Profile Stats
 
 on:
   schedule:
-    - cron: "0 3 * * *"
+    - cron: "30 8 * * *"
   workflow_dispatch:
 
 permissions:
